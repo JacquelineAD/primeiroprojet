@@ -8,7 +8,7 @@ Como primeiro projeto, tenho um carrossel de imagens com tema de um drama Chinê
 ##Em funcionamento:
 
 Aqui podemos ver as animações funcionando juntamente ao clique do usuário. Cada icone redondo faz a transição de uma img de fundo com a animação. A descrição se mantém em todas as transições:
-[<img src="src/tela.gif" alt="Gif do funcionamento da página com imagens do drama em carrossel">]
+[<img src="tela.gif" alt="Gif do funcionamento da página com imagens do drama em carrossel">]
 
 ##Tecnologias Usadas:
 - HTML
